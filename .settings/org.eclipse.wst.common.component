@@ -2,7 +2,7 @@
                 
     
     
-    <wb-module deploy-name="dam2_m06_uf4_jsp-crud-0.0.1-SNAPSHOT">
+    <wb-module deploy-name="dam2_m06_uf4_jsp-0.0.1-SNAPSHOT">
                 
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
                                 
@@ -20,7 +20,7 @@
         
         
         <property name="java-output-path" value="/dam2_m06_uf4_jsp/build/classes"/>
-        <property name="context-root" value="dam2_m06_uf4_jsp-crud"/>
+        <property name="context-root" value="dam2_m06_uf4_jsp"/>
                             
     
     
